@@ -13,8 +13,8 @@ function App() {
   
   return (
     <div className={AppStyle()}>
-      <div className="video py-4 flex flex-column justify-content-center align-items-center">
-        <h2 className='mt-0'>
+      <div className="video pb-4 pt-8 flex flex-column justify-content-center align-items-center">
+        <h2 className='mt-4'>
           FALTAN
         </h2>
         <div className='sm:pb-5 pb-1'>
